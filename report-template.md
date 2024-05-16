@@ -31,3 +31,5 @@ Using bulleted lists, describe the accuracy scores and the precision and recall 
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. 
 
 In conclusion, the logistic regression model is recommended to predict credit worthiness and as a machine learning model demonstrates analysis of a subject really well. There is an overall 99% accuracy demonstrated which shows the reliability of the model. 
+
+* This assignment was completed with review of module content and Google search engine. 
